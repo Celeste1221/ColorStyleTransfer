@@ -9,6 +9,8 @@ Tensorflow is the machine learning platform used. The Python Pillow, scikit-imag
 %pip install --upgrade imageio
 %pip install --upgrade scikit-image
 %pip install ipywidgets
+```
+```
 import os
 import tensorflow as tf
 import IPython.display as display
@@ -21,7 +23,7 @@ import functools
 ```
 
 ## Usage
-See code files for input and output images.
+See ipynb file for input and output images.
 
 ## Useful links  
 "A Neural Algorithm of Artistic Style" by Leon A. Gatys, Alexander S. Ecker, Matthias Bethge https://arxiv.org/abs/1508.06576
