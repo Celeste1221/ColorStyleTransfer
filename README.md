@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Celeste1221/ColorStyleTransfer)
+[![Open In Colab](https://github.com/Celeste1221/ColorStyleTransfer/blob/main/CF_13_1_ColorStyleTransfer.ipynb)
 
 
 # ColorStyleTransfer
