@@ -1,4 +1,4 @@
-# ColorStyleTransfer
+## ColorStyleTransfer
 This program is modified from a tensorflow tutorial (see code file for link) that uses a deep learning, generative style transfer neural network to transfer the 
 style of one image to the content of another. The network is also derived from the the intermediate layers of the pre-trained VGG19 image classification network architecture. The network uses the intermediate layers of the VGG16 network to separate the style features and the content features of each image so the style of one image can be transferred to the target image, while retaining the original content of the target image. 
 Tensorflow is the machine learning platform used. The Python Pillow, scikit-image, NumPy, and Matplotlib libraries are used for image processing visualization, and analysis. 
