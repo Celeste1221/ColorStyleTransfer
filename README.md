@@ -22,7 +22,7 @@ import functools
 ```
 
 ## Usage
-Initial input images, the first is the content image, the second is the style image, containing the style to be applied to the content image.
+Initial input images, the first is the content image, the second is the style image, containing the style to be applied to the content image.  
 Maintaining the color scheme of the content image:
 ![image](https://user-images.githubusercontent.com/35713658/222324249-ae51fc48-16bc-43e9-b4f8-de4f71015bcd.png)    
 
