@@ -27,9 +27,10 @@ Maintaining the color scheme of the content image:
 ![image](https://user-images.githubusercontent.com/35713658/222324249-ae51fc48-16bc-43e9-b4f8-de4f71015bcd.png)    
 
 Using the color scheme of the style image:  
-![image](https://user-images.githubusercontent.com/35713658/222325046-cc2c43e1-3ab7-4a0c-adfb-cafcf105305c.png)   
+![image](https://user-images.githubusercontent.com/35713658/222325046-cc2c43e1-3ab7-4a0c-adfb-cafcf105305c.png)     
 
-See CF_13_1_ColorStyleTransfer.ipynb file output images.
+## Output  
+See CF_13_1_ColorStyleTransfer.ipynb file for output images.
 
 ## Useful links  
 "A Neural Algorithm of Artistic Style" by Leon A. Gatys, Alexander S. Ecker, Matthias Bethge https://arxiv.org/abs/1508.06576
