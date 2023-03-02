@@ -1,5 +1,4 @@
-[![Open In Colab](https://github.com/Celeste1221/ColorStyleTransfer/blob/main/CF_13_1_ColorStyleTransfer.ipynb)
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Celeste1221/ColorStyleTransfer/blob/main/CF_13_1_ColorStyleTransfer.ipynb)
 
 # ColorStyleTransfer
 This program is modified from a tensorflow tutorial (see code file for link) that uses a deep learning, generative style transfer neural network to transfer the 
