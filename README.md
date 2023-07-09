@@ -25,10 +25,14 @@ Initial input images, the first is the content image, the second is the style im
 Maintaining the color scheme of the content image:
 ![image](https://user-images.githubusercontent.com/35713658/222324249-ae51fc48-16bc-43e9-b4f8-de4f71015bcd.png)    
 
+## Output  
 Using the color scheme of the style image:  
 ![image](https://user-images.githubusercontent.com/35713658/222325046-cc2c43e1-3ab7-4a0c-adfb-cafcf105305c.png)     
+![image](https://github.com/Celeste1221/ColorStyleTransfer/assets/35713658/623cb365-82b8-4e10-8a64-7e01a1676795)
+![image](https://github.com/Celeste1221/ColorStyleTransfer/assets/35713658/adcbe014-8a36-416c-8dbc-02023a0eec2b)
 
-## Output  
+
+
 See CF_13_1_ColorStyleTransfer.ipynb file for output images.
 
 ## Useful links  
