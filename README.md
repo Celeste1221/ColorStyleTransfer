@@ -28,7 +28,7 @@ Maintaining the color scheme of the content image:
 ## Output  
 Using the color scheme of the style image:  
 ![image](https://user-images.githubusercontent.com/35713658/222325046-cc2c43e1-3ab7-4a0c-adfb-cafcf105305c.png)     
-![image](https://github.com/Celeste1221/ColorStyleTransfer/assets/35713658/623cb365-82b8-4e10-8a64-7e01a1676795)
+![image](https://github.com/Celeste1221/ColorStyleTransfer/assets/35713658/7e2866da-724c-46e9-8f88-99269604ae0b)
 ![image](https://github.com/Celeste1221/ColorStyleTransfer/assets/35713658/adcbe014-8a36-416c-8dbc-02023a0eec2b)
 
 
